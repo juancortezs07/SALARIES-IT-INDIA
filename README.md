@@ -1,11 +1,11 @@
-# SALARIES-IT-INDIA-
-#Descripción del Proyecto:
+# SALARIES-IT-INDIA
+# Descripción del Proyecto:
 
 El objetivo de este proyecto es analizar los salarios del sector IT, en este caso de India y dar a una visión más clara a trabajadores con economías similares a la India que estén pensado en ingresar al sector IT.  Tomando en cuenta que India es una economía en constante crecimiento y su salario promedio anual de India (2,150 dólares), tenemos una idea que no es de los salarios más competitivos, situación muy parecida es en Latinoamérica, por ejemplo, Perú tiene un salario promedio anual de 6,460 dólares, Bolivia con 3,290 dólares, Ecuador con 5,960 dólares, sólo por dar unos ejemplos. 
 Entonces, dato que el sector IT hay mucha demanda y cada vez hay más interés, es importante saber cómo se mueven los salarios en uno de los países más importantes a nivel mundial.
 Para ello, se recopilará y analizará datos de diferentes fuentes para entender la tendencia de los salarios del sector, los tipos de puestos más demandados, las ciudades con mejores oportunidades, y otros factores que puedan afectar a la compensación de los trabajadores del sector.
 
-Repositorio del Proyecto: 
+# Repositorio del Proyecto: 
 
 El repositorio del proyecto se dividirá en las siguientes secciones:
 
@@ -35,7 +35,7 @@ Link EDA, ML Clustering, Creación y conexión con  PostgreSQL: https://github.c
 ![image](https://user-images.githubusercontent.com/106040107/233903044-b86cbca7-f7c2-464e-b460-6bac0bf8a0a7.png)
 
 
-Link  consultas SQL:https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/query21-04-23.sql) 
+Link  consultas SQL:https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/query21-04-23.sql
 
 Link consulta SQL PDF: https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/QUERY.pdf
 
