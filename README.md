@@ -27,6 +27,9 @@ Referencias: En esta sección, se incluirán las fuentes de datos, artículos, y
 
 
 Link EDA, ML Clustering, Creación y conexión con  PostgreSQL: https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/Salaries_Data_India.ipynb
+![image](https://user-images.githubusercontent.com/106040107/233902994-997937c1-8451-4aff-aafb-588690d7f995.png)
+![image](https://user-images.githubusercontent.com/106040107/233903044-b86cbca7-f7c2-464e-b460-6bac0bf8a0a7.png)
+
 
 Link  consultas SQL:https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/query21-04-23.sql) 
 
