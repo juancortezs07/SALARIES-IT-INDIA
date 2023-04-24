@@ -12,19 +12,23 @@ El repositorio del proyecto se dividirá en las siguientes secciones:
 Datos: Esta sección incluirá los datos utilizados para el análisis. Se proporcionará información sobre las fuentes de datos, cómo se recopilaron los datos, y cualquier procesamiento o limpieza de datos que se haya realizado.
 
 
-Análisis Exploratorio de Datos (EDA): En esta sección, se presentará un análisis exploratorio de los datos para entender la distribución de los salarios, las habilidades más demandadas, y otras tendencias relevantes. Se incluirán visualizaciones y gráficos para ilustrar los hallazgos. 
+Análisis Exploratorio de Datos (EDA): En esta sección, se presentará un análisis exploratorio de los datos para entender la distribución de los salarios, las habilidades más demandadas, y otras tendencias relevantes. Se incluirán visualizaciones y gráficos para ilustrar los hallazgos.  Asimismo se realizó un análisis con Power BI
 
 
 Modelo de Análisis: En esta sección, trabajaremos con variables categóricas y numéricas, para ellos emplearemos KModes. Trabajaremos con las columnas de Ubication, Size Company, Job y Salary. Luego las agruparemos en 3 clúster
 
 
 Resultados: En esta sección, se presentarán los resultados del análisis y se explicará su significado y relevancia en relación con el objetivo del proyecto.
+![image](https://user-images.githubusercontent.com/106040107/233903209-b4f1f86d-2b73-4020-836f-3167e19e0070.png)
+
 
 
 Conclusiones: En esta sección, se presentarán las conclusiones del proyecto y se discutirán posibles áreas de mejora o futuras investigaciones.
+![image](https://user-images.githubusercontent.com/106040107/233903240-bdde3a56-347c-4c97-8825-b2668f326b0a.png)
+
 
 Referencias: En esta sección, se incluirán las fuentes de datos, artículos, y otros recursos utilizados para llevar a cabo el proyecto.
-
+Salarios promedio por países: https://www.datosmundial.com/ingreso-promedio.php
 
 Link EDA, ML Clustering, Creación y conexión con  PostgreSQL: https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/Salaries_Data_India.ipynb
 ![image](https://user-images.githubusercontent.com/106040107/233902994-997937c1-8451-4aff-aafb-588690d7f995.png)
