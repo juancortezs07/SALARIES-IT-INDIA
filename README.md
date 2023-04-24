@@ -26,8 +26,13 @@ Conclusiones: En esta sección, se presentarán las conclusiones del proyecto y 
 Referencias: En esta sección, se incluirán las fuentes de datos, artículos, y otros recursos utilizados para llevar a cabo el proyecto.
 
 
-Link EDA, ML Clustering, Creación y conexión con  PostgreSQL : https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/Salaries_Data_India.ipynb
+Link EDA, ML Clustering, Creación y conexión con  PostgreSQL: https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/Salaries_Data_India.ipynb
 
-Link  consultas SQL : query21-04-23.sql
+Link  consultas SQL:https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/query21-04-23.sql) 
 
-Link visualizaciones Power BI :
+Link consulta SQL PDF: https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/QUERY.pdf
+
+Link visualizaciones Power BI : https://github.com/juancortezs07/SALARIES-IT-INDIA-/blob/b7ac43aaabd7b561c98b661f3a266d7f4369893c/salary%20india%2022-04-2023.pbix
+
+![image](https://user-images.githubusercontent.com/106040107/233902781-39ae9238-a743-44e0-a7f9-55e652f651f7.png)
+
