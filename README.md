@@ -19,7 +19,7 @@ Analysis Model: In this section, we will work with categorical and numerical var
 
 
 Results: In this section, the results of the analysis will be presented and their significance and relevance to the project objective will be explained.
-![image](![image](https://github.com/juancortezs07/SALARIES-IT-INDIA/assets/106040107/a03ae31e-6b2d-4dc4-91e9-dcacce9e817c))
+![image](https://user-images.githubusercontent.com/106040107/233903209-b4f1f86d-2b73-4020-836f-3167e19e0070.png)
 
 
 
